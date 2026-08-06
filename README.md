@@ -46,7 +46,7 @@ I am the owner of **Celestial**, a Discord server focused on community, projects
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,windows,git,discord,github,vscode" />
 
 </p>
 
