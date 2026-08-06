@@ -1,7 +1,7 @@
 # 🌌 Hey, I'm `vvxlx`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
