@@ -1,4 +1,4 @@
-# 🌌 Hey, I'm `YOUR_USERNAME`
+# 🌌 Hey, I'm `vvxlx`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -11,7 +11,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "YOUR_USERNAME"
+        self.name = "vvxlx"
         self.language = "Python 🐍"
         self.role = "Developer"
         self.community = "Celestial Owner"
@@ -100,7 +100,7 @@ Building:
 https://dc.gg/clc
 
 🐙 **GitHub:**  
-https://github.com/YOUR_USERNAME
+https://github.com/vvxlx
 
 ---
 
