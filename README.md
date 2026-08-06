@@ -1,6 +1,6 @@
 # 👋 Hi, I'm the owner of Celestial
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vvxlx&color=blue)
 
 ## 🌌 About Me
 
@@ -17,14 +17,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvxlx&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvxlx&layout=compact&theme=tokyonight)
 
 ## 🌐 Links
 
 - 🌌 Celestial Discord: https://dc.gg/clc
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 🐙 GitHub: https://github.com/vvxlx
 
 ---
 
