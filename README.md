@@ -88,6 +88,10 @@ Building:
 
 # 📂 Featured Projects
 
+➡️ <a href="https://dc.gg/clc">Gunslol Viewbot
+➡️ <a href="https://dc.gg/clc">Roblox Limited Sniper
+➡️ <a href="https://dc.gg/clc">Wordle Guesser
+➡️
 🚧 More projects coming soon...
 
 ⭐ Check back later for updates!
