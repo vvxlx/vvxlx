@@ -1,10 +1,10 @@
 # 🌌 Hey, I'm `vvxlx`
 
-> 🐍 Python Developer • 🌌 Celestial Owner • ⚙️ Builder
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
 </p>
+
+> 🐍 Python Developer • 🌌 Celestial Owner • ⚙️ Builder
 
 I like turning ideas into **tools, bots, automation, and random projects that actually do something.**
 
