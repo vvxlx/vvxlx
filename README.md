@@ -88,9 +88,9 @@ Building:
 
 # 📂 Featured Projects
 
-➡️ <a href="https://dc.gg/clc">Gunslol Viewbot
-➡️ <a href="https://dc.gg/clc">Roblox Limited Sniper
-➡️ <a href="https://dc.gg/clc">Wordle Guesser
+➡️ <a href="https://github.com/vvxlx/gunslol-views">Gunslol Viewbot
+➡️ <a href="https://github.com/vvxlx/roblox-limited-sniper">Roblox Limited Sniper
+➡️ <a href="https://github.com/vvxlx/wordle-cheat">Wordle Guesser
 ➡️
 🚧 More projects coming soon...
 
