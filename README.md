@@ -1,7 +1,7 @@
 # 🌌 Hey, I'm `vvxlx`
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" /> (this is a real count refresh the site to check)
 </p>
 
 > 🐍 Python Developer • 🌌 Celestial Owner • ⚙️ Builder
