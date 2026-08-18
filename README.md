@@ -1,4 +1,4 @@
-# 🌌 Hey, I'm `vvxlx`
+![Header](./banner.pmg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
