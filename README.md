@@ -4,7 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=c671d9&style=for-the-badge" alt="vvxlx profile views" />
   <img src="https://img.shields.io/github/followers/vvxlx?label=Followers&style=for-the-badge&color=c671d9" alt="vvxlx followers" />
 </p>
+
 (this is a real count refresh the site to check)
+
 
 > 🐍 Python Developer • 🌌 Celestial Owner • ⚙️ Builder
 
