@@ -41,7 +41,7 @@ print(me.info())
 
 # 🌠 Celestial
 
-**Celestial** is a Discord community focused on **people, projects, and having fun**.
+**Celestial** is a Discord community focused on **people, projects, automation tools, and having fun**.
 
 Whether you're here to chat, discover projects, or just hang out, you're welcome.
 
