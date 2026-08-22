@@ -7,7 +7,7 @@
 
 (this is a real count refresh the site to check)
 
-[GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=vvxlx&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dark)
+[![GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=vvxlx&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dark)
 
 > 🐍 Python Developer • 🌌 Celestial Owner • ⚙️ Builder
 
